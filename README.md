@@ -1,0 +1,2 @@
+![Sid's github stats](https://github-readme-stats.vercel.app/api?username=siddharths2710&show_icons=true&theme=onedark&hide=stars)
+
