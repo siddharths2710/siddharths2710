@@ -1,8 +1,8 @@
 ### Hi there, I'm Siddharth
 
 - ⚡ I come with close to three years of professional work experience in 
-    -  McAfee, the Cybersecurity company 
-    -  WalmartLabs India, as an intern.
+    -  McAfee LLC (Software Engineer, Network Security and Web Protection Group)
+    -  WalmartLabs India, (Software Development Intern, Transportation team)
 - 🌱 My areas of interest lie in 
     - Cloud and Application Security
     - Android development
