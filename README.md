@@ -1,7 +1,7 @@
 ### Hi there, I'm Siddharth
 
 
-( I'm no longer as active in contributing to open-source ever since I'm pursuing my masters and have developed an unfortunate health situation in the middle of it all, sorry for that! You may wanna look at my history from 2020 or the years before: [Contributions](https://siddharths2710.github.io/#presence)
+(**Disclaimer**: I'm no longer as active in contributing to open-source ever since I'm pursuing my masters and have developed an unfortunate health situation in the middle of it all, sorry for that! You may wanna look at my history from 2020 or the years before: [Contributions](https://siddharths2710.github.io/#presence) )
 
 
 - ⚡ I come with close to three years of professional work experience in 
