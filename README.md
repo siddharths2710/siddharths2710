@@ -4,6 +4,7 @@
 - ⚡ I come with close to three years of professional work experience in 
     -  McAfee LLC (Software Engineer, Network Security and Web Protection Group)
     -  WalmartLabs India, (Software Development Intern, Transportation team)
+    -  Qualcomm Inc (Software Engineering Intern, Secure Systems group)
 - 🌱 My areas of interest lie in 
     - Cloud and Application Security
     - Android development
