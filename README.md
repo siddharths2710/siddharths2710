@@ -1,6 +1,6 @@
 ### Hi there, I'm Siddharth (I go by Sid, unless you decide to not [Butcher](https://the-boys.fandom.com/wiki/Billy_Butcher/Comics) my name.) Thanks!
-Have **HELD OFF** contributing to OSS for several years, for 101 legitimate reasons.
-Planning on making a comeback depending on how the [garbage Indian PR](https://www.reddit.com/r/developersIndia/comments/1abectp/indian_devs_raising_garbage_pr_in_open_source/) scene turns out.
+Have **HELD OFF** contributing to OSS for several years, due to personal reasons.
+Planning on making a comeback depending on how the [Indian PR](https://www.reddit.com/r/developersIndia/comments/1abectp/indian_devs_raising_garbage_pr_in_open_source/) scene turns out.
 
 
 - ⚡ I come with above four years of professional work experience in
