@@ -1,7 +1,4 @@
-### Hi there, I'm Siddharth (I go by Sid, unless you decide to not [Butcher](https://the-boys.fandom.com/wiki/Billy_Butcher/Comics) my name.) Thanks!
-Have **HELD OFF** contributing to OSS for several years, due to personal reasons.
-Planning on making a comeback depending on how the [Indian PR](https://www.reddit.com/r/developersIndia/comments/1abectp/indian_devs_raising_garbage_pr_in_open_source/) scene turns out.
-
+### Hi there, I'm Siddharth, and I have unfortunately **HELD OFF** contributing to OSS for several years, due to personal reasons.
 
 - ⚡ I come with above four years of professional work experience in
     -  Qualcomm Inc (Senior Software Engineer, Secure Systems group (+3mos as an intern))
